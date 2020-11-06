@@ -1,0 +1,14 @@
+What I learned:
+use commands:
+sudo
+cd
+ls
+ls -a
+mkdir
+rmkdir
+rm -r
+touch
+
+go directly to catalog
+create catalogs: test/test1/test2
+create files in catalogs
